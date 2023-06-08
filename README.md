@@ -7,11 +7,11 @@ Investigate and implement a publicly available community driven Self Sovereign I
 
 ## Findings
 
-a) Bitcoin SV Blockchain
-b) Decentralized Identity Foundation
-c) DIDs and VCs
-d) Trust Over IP Foundation 
-d) did:hack
+1. Bitcoin SV Blockchain
+2. Decentralized Identity Foundation
+3. DIDs and VCs
+4. Trust Over IP Foundation 
+5. did:hack
 
 ## Did:Bsv 
 
@@ -37,7 +37,7 @@ https://github.com/alfredsamasoni/did-bsvo
 ## Existing framework
 https://js.1satordinals.com/
 
-##Create
+## Create
 
 https://js.1satordinals.com/adding-metadata
 
