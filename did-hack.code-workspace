@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../did-bsv"
+		},
+		{
+			"path": "../brfc-paymail-did"
+		},
+		{
+			"path": "../did-bsvo"
+		}
+	]
+}
